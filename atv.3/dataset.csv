@@ -1,0 +1,9 @@
+temperatura,umidade,classe
+18,40,Frio
+20,45,Frio
+22,50,Confortavel
+24,55,Confortavel
+26,60,Confortavel
+30,65,Quente
+32,70,Quente
+35,75,Quente
